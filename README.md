@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+박유진의 홈페이지!
+
 You can use the [editor on GitHub](https://github.com/cosre7/cosre7.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
