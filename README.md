@@ -1,39 +1,38 @@
-## Welcome to GitHub Pages
+## 박유진의 홈페이지
 
-박유진의 홈페이지!
+### team-project talat
+  
+> 프로젝트 제목 및 개요   
+  
+- 운전자(드라이버)가 카풀을 등록하고, 등록한 여정에 대해 탑승자(라이더)가 검색을 통해 매칭되는 차량 공유 플랫폼
 
-You can use the [editor on GitHub](https://github.com/cosre7/cosre7.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> 개발 기간
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 2021.05.21 ~ 2021.06.04    
 
-### Markdown
+> 역할
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 라이더의 여정 신청   
+- 드라이버와 라이더 사이의 메시지   
 
-```markdown
-Syntax highlighted code block
+> 기술 스택   
 
-# Header 1
-## Header 2
-### Header 3
+- java 11
+- servlet 4.0.1
+- mariadb 2.7.2
+- mybatis 3.5.6
+- jstl 1.2
+- Apache Tomcat 9.0   
 
-- Bulleted
-- List
+> 주요 개발 내용   
 
-1. Numbered
-2. List
+- JSP와 서블릿 기술을 이용하여 라이더의 여정 검색, 상세보기, 신청, 목록보기 기능 구현
+- JSP와 서블릿 기술을 이용하여 드라이버와 라이더 사이의 메시지 기능 구현
 
-**Bold** and _Italic_ and `Code` text
+> 링크   
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cosre7/cosre7.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Link : [talat]
+    
+    [talat]: https://github.com/julie0919/teamproject-talat
+  
+  
